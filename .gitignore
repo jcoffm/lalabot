@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore dynaconf config files
+.secrets.toml
+settings.toml

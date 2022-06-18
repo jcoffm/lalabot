@@ -1,0 +1,18 @@
+[discord]
+guild_id = CHANGE_ME
+
+[discord.bot]
+app_id = CHANGE_ME
+command_prefix = "CHANGE_ME"
+
+[db]
+default = "CHANGE_ME"
+
+[db.postgres]
+driver = "CHANGE_ME"
+host = "CHANGE_ME"
+port = CHANGE_ME
+database = "CHANGE_ME"
+user = "CHANGE_ME"
+sslmode = "CHANGE_ME"
+sslrootcert = "CHANGE_ME"
